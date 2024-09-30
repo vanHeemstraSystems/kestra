@@ -1,10 +1,12 @@
 凱斯特拉
 
-# 凱斯特拉
+# Kestra
 
 > 開源、聲明式資料編排
 
-Based on "Kestra" at <https://kestra.io/>
+基於“Kestra”<https://kestra.io/>
+
+基於“GitHub 上的 Kestra”：<https://github.com/kestra-io/kestra>
 
 ## 100 - 簡介
 
@@ -18,6 +20,6 @@ Based on "Kestra" at <https://kestra.io/>
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
