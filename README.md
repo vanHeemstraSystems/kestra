@@ -5,6 +5,8 @@ kestra
 
 Based on "Kestra" at https://kestra.io/
 
+Based on "Kestra on GitHub" at https://github.com/kestra-io/kestra
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
