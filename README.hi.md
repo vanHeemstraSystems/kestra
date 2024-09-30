@@ -6,17 +6,19 @@
 
 "केस्ट्रा" पर आधारित<https://kestra.io/>
 
+"केस्ट्रा ऑन गिटहब" पर आधारित<https://github.com/kestra-io/kestra>
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
